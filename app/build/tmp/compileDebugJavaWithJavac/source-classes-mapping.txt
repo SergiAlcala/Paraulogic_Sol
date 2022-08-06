@@ -1,0 +1,12 @@
+com/example/paraulogic_sol/BuildConfig.java
+ com.example.paraulogic_sol.BuildConfig
+com/example/paraulogic_sol/activity_websol.java
+ com.example.paraulogic_sol.activity_websol
+ com.example.paraulogic_sol.activity_websol$1
+ com.example.paraulogic_sol.activity_websol$1$1
+ com.example.paraulogic_sol.activity_websol$MyJavaScriptInterface
+com/example/paraulogic_sol/MainActivity.java
+ com.example.paraulogic_sol.MainActivity
+ com.example.paraulogic_sol.MainActivity$1
+ com.example.paraulogic_sol.MainActivity$2
+ com.example.paraulogic_sol.MainActivity$2$1
